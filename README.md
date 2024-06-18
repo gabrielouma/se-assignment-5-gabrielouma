@@ -92,5 +92,62 @@ Prettier - Code formatter (for code formatting)
 ![alt text](<Screenshot 2024-06-18 145847.png>)
 Live Server (for web development)
 ![alt text](<Screenshot 2024-06-18 150016.png>)
+Keybindings:
 
+Customize keybindings through File > Preferences > Keyboard Shortcuts.
+You can search for specific commands and reassign keys according to your preferences
 
+User Interface Overview
+Main components of the VS Code user interface:
+
+Activity Bar:
+
+Located on the far left, it provides quick access to different views like Explorer, Search, Source Control, Run, and Extensions.
+![alt text](<Screenshot 2024-06-18 150643.png>)
+
+Side Bar:
+
+Displays the content of the selected view from the Activity Bar, such as the file explorer or extensions list.
+![alt text](<Screenshot 2024-06-18 150958.png>)
+Editor Group:
+
+The central area where you open and edit files. You can have multiple editor groups open simultaneously for side-by-side editing.
+![alt text](<Screenshot 2024-06-18 151022.png>)
+Status Bar:
+
+Located at the bottom, it displays information about the current workspace, such as line/column number, language mode, and Git branch.
+![alt text](<Screenshot 2024-06-18 151123.png>)
+
+Command Palette
+What is the Command Palette and how to access it:
+
+The Command Palette is a tool in VS Code that allows you to access all available commands.
+Access it by pressing Ctrl+Shift+P or F1.
+Examples of common tasks:
+>Open File...: Quickly open a file.
+>Git: Clone: Clone a repository.
+>View: Toggle Integrated Terminal: Open the integrated terminal.
+![alt text](<Screenshot 2024-06-18 151624.png>)
+
+Extensions in VS Code
+Role of extensions and how to manage them:
+
+Extensions enhance the functionality of VS Code by adding new features and integrations.
+Finding Extensions:
+Click the Extensions icon on the Activity Bar or press Ctrl+Shift+X.
+Search for extensions using keywords.
+![alt text](<Screenshot 2024-06-18 151900.png>)
+Installing Extensions:
+Click on the Install button next to the extension you want to add.
+![alt text](<Screenshot 2024-06-18 152029.png>)
+Managing Extensions:
+Manage installed extensions by clicking the gear icon next to each extension.
+![alt text](<Screenshot 2024-06-18 152201.png>)
+
+Essential Extensions for Web Development:
+HTML CSS Support
+![alt text](<Screenshot 2024-06-18 152507.png>)
+JavaScript (ES6) code snippets
+![alt text](<Screenshot 2024-06-18 152630.png>)
+Path Intellisense
+![alt text](<Screenshot 2024-06-18 152414.png>)
