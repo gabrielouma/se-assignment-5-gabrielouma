@@ -42,8 +42,10 @@ Answer the following questions based on your understanding of the installation a
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
+
+
 <h1><strong>ANSWERS TO SE-ASSIGNMENT 5</strong></h1>
-Installation of VS Code
+1. Installation of VS Code
 Steps to download and install Visual Studio Code on Windows 11:
 
 Prerequisites:
@@ -52,12 +54,43 @@ Ensure you have administrative privileges on your Windows 11 system.
 Ensure your system meets the minimum system requirements.
 Download VS Code:
 
-Visit the Visual Studio Code website.
+Visit the Visual Studio Code website "https://code.visualstudio.com/".
 Click on the "Download for Windows" button to download the installer.
+![alt text](<Screenshot 2024-06-18 144335.png>)
 Install VS Code:
 
 Locate the downloaded installer (usually in your Downloads folder) and double-click to run it.
+![alt text](<Screenshot 2024-06-18 144615.png>)
 Follow the installation wizard prompts:
 Accept the license agreement.
 Choose the installation location.
 Select additional tasks, such as creating a desktop icon or adding VS Code to the PATH (recommended).
+
+Launch VS Code:
+
+Once the installation is complete, you can launch VS Code from the Start Menu or by double-clicking the desktop icon.
+![alt text](<Screenshot 2024-06-18 145215.png>)
+
+2.First-time Setup
+Initial configurations and settings for an optimal coding environment:
+
+Theme and Appearance:
+
+Go to File > Preferences > Color Theme to choose a theme that suits your preference.
+Install additional themes from the Extensions Marketplace if needed.
+Font and Editor Settings:
+
+Navigate to File > Preferences > Settings.
+Adjust settings such as Editor: Font Size, Editor: Tab Size, and Editor: Word Wrap.
+Extensions:
+
+Open the Extensions view by clicking the Extensions icon on the Activity Bar or pressing Ctrl+Shift+X.
+Install essential extensions for your workflow, such as:
+Python (for Python development)
+![alt text](<Screenshot 2024-06-18 145708.png>)
+Prettier - Code formatter (for code formatting)
+![alt text](<Screenshot 2024-06-18 145847.png>)
+Live Server (for web development)
+![alt text](<Screenshot 2024-06-18 150016.png>)
+
+
