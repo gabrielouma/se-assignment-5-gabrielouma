@@ -42,5 +42,22 @@ Answer the following questions based on your understanding of the installation a
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
 - Submit your completed assignment by 1st July 
+<h1><strong>ANSWERS TO SE-ASSIGNMENT 5</strong></h1>
+Installation of VS Code
+Steps to download and install Visual Studio Code on Windows 11:
 
-![alt text](<Screenshot 2024-06-18 140653.png>)
+Prerequisites:
+
+Ensure you have administrative privileges on your Windows 11 system.
+Ensure your system meets the minimum system requirements.
+Download VS Code:
+
+Visit the Visual Studio Code website.
+Click on the "Download for Windows" button to download the installer.
+Install VS Code:
+
+Locate the downloaded installer (usually in your Downloads folder) and double-click to run it.
+Follow the installation wizard prompts:
+Accept the license agreement.
+Choose the installation location.
+Select additional tasks, such as creating a desktop icon or adding VS Code to the PATH (recommended).
