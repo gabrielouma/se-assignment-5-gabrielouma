@@ -151,3 +151,68 @@ JavaScript (ES6) code snippets
 ![alt text](<Screenshot 2024-06-18 152630.png>)
 Path Intellisense
 ![alt text](<Screenshot 2024-06-18 152414.png>)
+Integrated Terminal
+Opening and using the integrated terminal:
+
+Open the integrated terminal by pressing Ctrl+ or selecting View > Terminal.
+The integrated terminal provides a command-line interface within VS Code, allowing you to run commands without leaving the editor.
+![alt text](<Screenshot 2024-06-18 153936.png>)
+Advantages:
+Seamless integration with the editor.
+Run scripts and commands in the same window.
+Split terminal feature for multiple terminal instances.
+
+File and Folder Management
+Creating, opening, and managing files and folders:
+
+Creating Files/Folders:
+Right-click in the Explorer view and select New File or New Folder.
+Opening Files/Folders:
+Click on a file to open it in the editor.
+Use Ctrl+O to open files from the file system.
+Managing Files/Folders:
+Use the Explorer view to navigate between files and directories.
+Drag and drop files to move them within the folder structure.
+
+Settings and Preferences
+Customizing settings in VS Code:
+
+Access Settings:
+Go to File > Preferences > Settings or press Ctrl+,.
+Changing Theme:
+In the Settings panel, search for Color Theme and choose your preferred theme.
+Adjusting Font Size:
+Search for Font Size and adjust the value as needed.
+Customizing Keybindings:
+Go to File > Preferences > Keyboard Shortcuts to modify keybindings.
+
+Debugging in VS Code
+Setting up and starting debugging:
+
+Open a file to debug.
+Configure Debugging:
+Go to the Run view by clicking the Run icon on the Activity Bar or pressing Ctrl+Shift+D.
+![alt text](<Screenshot 2024-06-18 154849.png>)
+Click on create a launch.json file to configure the debugger for your project.
+Set Breakpoints:
+Click in the gutter next to the line number where you want to set a breakpoint.
+Start Debugging:
+Press F5 to start debugging.
+Key Debugging Features:
+Step over, step into, and step out of code.
+Watch expressions to monitor variable values.
+Call stack view to see the current execution context.
+
+Using Source Control
+Integrating Git with VS Code:
+
+Initialize Repository:
+Open the Source Control view by clicking the Source Control icon on the Activity Bar or pressing Ctrl+Shift+G.
+Click on Initialize Repository to set up Git for your project.
+Making Commits:
+Stage changes by clicking the + icon next to the files.
+Enter a commit message and click the checkmark icon to commit.
+![alt text](<Screenshot 2024-06-18 155343.png>)
+Pushing Changes:
+Click on the three-dot menu in the Source Control view and select Push to push changes to a remote repository.
+Connect to GitHub by following the prompts or setting up a remote in the terminal using git remote add origin <repository_url>.
